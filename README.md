@@ -1,9 +1,9 @@
-Der er udleveret projektfiler og kildekode til Visual Studio Code i et ZIP-arkiv (`sw1oprg-01-exam-e2024-handout.zip`).
+Der er udleveret projektfiler og kildekode til Visual Studio Code i et ZIP-arkiv (`sw1oprg-01-exam-template.zip`).
 
 I den udpakkede mappe ligger følgende filer og mapper:
 
 ```
-sw1oprg-01-exam-handout
+sw1oprg-01-exam-template
   .vscode/
     launch.json
     tasks.json
@@ -14,12 +14,10 @@ sw1oprg-01-exam-handout
     opgave2/
       main.cpp
     opgave3/
-      dato.cpp
-      dato.h
       main.cpp
 ```
 
-Udpak ZIP filen og åbn mappen `sw1oprg-01-exam-handout` i Visual Studio Code:
+Udpak ZIP filen og åbn mappen `sw1oprg-01-exam-template` i Visual Studio Code:
 ![open-folder](vscode-open-folder.png)
 
 ### Sådan kompilerer og eksekverer du koden
